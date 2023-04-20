@@ -1,0 +1,15 @@
+streamlit
+pandas
+cv2
+PIL
+numpy
+os
+time
+streamlit_embedcode
+urllib.request
+urllib
+moviepy.editor
+cv2
+numpy
+time
+sys
